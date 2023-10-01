@@ -1,0 +1,12 @@
+body{ 
+  background-color:white;
+  color : #000000;
+  margin-right: auto;
+  margin-left : auto;
+  width: 800px;
+  font-size:100%;
+
+}
+p {
+  white-space: pre-wrap;
+}
